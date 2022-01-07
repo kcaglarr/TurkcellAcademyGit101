@@ -1,0 +1,10 @@
+Ad Soyad: Kerim Çağlar
+Okul/Bölüm/Meslek: İOS Developer
+Yaşadığı il/İlçe: İstanbul/Kurtköy
+Swift Tecrübesi: 5 yıl
+Bildiği Yazılım Dilleri: Swift, Objective-C, PHP, Angular...
+instagram: kerimcaglar_ios
+twittter: kerimcaglar_ios
+linkedin: Bulursunuz sanırım:)
+email: kerim.caglarr@gmail.com
+
