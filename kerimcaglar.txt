@@ -7,4 +7,5 @@ instagram: kerimcaglar_ios
 twittter: kerimcaglar_ios
 linkedin: Bulursunuz sanırım:)
 email: kerim.caglarr@gmail.com
-umut, geç de olsa bende commitledim
+
+ben de commit attim
