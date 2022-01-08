@@ -8,4 +8,4 @@ twittter: kerimcaglar_ios
 linkedin: Bulursunuz sanırım:)
 email: kerim.caglarr@gmail.com
 
-ben de commit attim
+Cemde commitledi
